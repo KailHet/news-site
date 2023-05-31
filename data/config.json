@@ -1,0 +1,54 @@
+{
+    "sources": [
+        {
+            "rss": "https://stribuna.ru/rss/yandex_news/",
+            "srcLink": "https://t.me/surgut_news",
+            "srcName": "Сургутская Трибуна",
+            "customName": "",
+            "postSrc": true,
+            "post": true,
+            "channel": null,
+            "fullContent": "yandex:full-text"
+        },
+        {
+            "rss": "https://ugra.aif.ru/rss/news",
+            "srcLink": "https://t.me/aif_ugra",
+            "srcName": "Аргументы и Факты Югра",
+            "customName": "АиФ - Югра",
+            "postSrc": true,
+            "post": true,
+            "channel": null,
+            "fullContent": "turbo:content"
+        },
+        {
+            "rss": "https://ugra.aif.ru/rss/articles",
+            "srcLink": "https://t.me/aif_ugra",
+            "srcName": "Аргументы и Факты Югра",
+            "customName": "АиФ - Югра",
+            "postSrc": true,
+            "post": true,
+            "channel": null,
+            "fullContent": "turbo:content"
+        },
+        {
+            "rss": "https://nyagan.life/rss/news.html",
+            "srcLink": "https://nyagan.life/",
+            "srcName": "NYAGAN.LIFE",
+            "customName": "",
+            "postSrc": true,
+            "post": true,
+            "channel": null,
+            "fullContent": "fulltext"
+        },
+        {
+            "rss": "https://ugra-news.ru/yadzen/yadzen.rss",
+            "srcLink": "https://ugra-news.ru",
+            "srcName": "Ugra-News",
+            "customName": "",
+            "postSrc": true,
+            "post": true,
+            "channel": null,
+            "fullContent": "content:encoded"
+        }
+    ]
+}
